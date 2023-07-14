@@ -1,0 +1,3 @@
+# ADS-thesis
+improving the NS train schedule by working on train turnaround times 
+Master thesis Nederlandse Spoorwegen (NS) NS aims to help train travellers by planning a robust train schedule. They believe that they can reach this aim better if they gain more insight on the time it takes for a train to turn around. A turnaround is when a train leaves a station in the same direction as it arrived. The data consists of all Nstrain activities both the schedule and its execution.The NS proposed the following research question: How can we calculate the time for a specific turnaround so it is robust? This is done by several machine learning algorithms such as Multiple Linear Regression.
